@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Raaif and I am a final year graduate student in quantitative finance at the Vienna University of Economics and Business. I want a pursue a career in quantitative risk. Here, on GitHub, I like sharing some interesting projects I have worked at school, and also some self inspired projects. I am currently working on developing a project to show case my skills in quantitative risk analytics. 
+
 <!--
 **RaaifM/RaaifM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
